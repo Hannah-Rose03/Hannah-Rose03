@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Hannah Rose
 
-<!--
-**Hannah-Rose03/Hannah-Rose03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer with a background in IT and data analysis.  
+I earned my Bachelor's degree in Computer Science from East Central University,  
+and I'm currently focused on expanding my front-end and back-end skills.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- HTML • CSS • SQL  
+- Visual Studio Code • Git & GitHub • MSSQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Background
+- IT support and system maintenance  
+- Analyst experience with a focus on data interpretation and reporting  
+- Comfortable working with both users and technical teams
+
+### 🚀 Currently Learning
+- JavaScript fundamentals  
+- Responsive design with CSS Grid & Flexbox  
+- GitHub Actions and open source collaboration
+
+### 📂 Projects
+Check out my latest project:  
+👉 [Coffee Shop Landing Page](https://github.com/Hannah-Rose03/WarmUp/tree/main/Coffee_LP)
+
+### 📫 Connect with Me
+Feel free to reach out via GitHub or through email: lzzrose95@yahoo.com
