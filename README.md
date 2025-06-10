@@ -19,8 +19,9 @@ and I'm currently focused on expanding my front-end and back-end skills.
 - GitHub Actions and open source collaboration
 
 ### 📂 Projects
-Check out my latest project:  
+Check out my latest projects:  
 👉 [Coffee Shop Landing Page](https://github.com/Hannah-Rose03/WarmUp/tree/main/Coffee_LP)
+👉 [Basic Recipe Pages](https://github.com/Hannah-Rose03/odin-recipes)
 
 ### 📫 Connect with Me
 Feel free to reach out via GitHub or through email: lzzrose95@yahoo.com
