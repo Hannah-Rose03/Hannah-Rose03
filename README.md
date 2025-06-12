@@ -2,7 +2,7 @@
 
 I'm an aspiring web developer with a background in IT and data analysis.  
 I earned my Bachelor's degree in Computer Science from East Central University,  
-and I'm currently focused on expanding my front-end and back-end skills by going
+and I'm currently focused on expanding my front-end and back-end skills by going  
 through The Odin Project course.
 
 ### 🔧 Tech Stack
