@@ -18,10 +18,13 @@ and I'm currently focused on expanding my front-end and back-end skills.
 - Responsive design with CSS Grid & Flexbox  
 - GitHub Actions and open source collaboration
 
-### 📂 Projects
+### 📂 Projects  
 Check out my latest projects:  
-👉 [Coffee Shop Landing Page](https://github.com/Hannah-Rose03/WarmUp/tree/main/Coffee_LP)
-👉 [Basic Recipe Pages](https://github.com/Hannah-Rose03/odin-recipes)
+👉 [Sample Landing Page with flex containers](https://github.com/Hannah-Rose03/Landing_Page)  
+👉 [Very Simple Basic Landing Page](https://github.com/Hannah-Rose03/WarmUp/tree/main/Coffee_LP)  
+👉 [Basic Recipe Pages](https://github.com/Hannah-Rose03/odin-recipes)  
+👉 [First Live Website *No longer active*](https://github.com/Hannah-Rose03/Shady-Oaks-Boat-Rental)
+
 
 ### 📫 Connect with Me
 Feel free to reach out via GitHub or through email: lzzrose95@yahoo.com
