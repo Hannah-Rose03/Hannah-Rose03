@@ -28,4 +28,4 @@ Check out my latest projects:
 
 
 ### 📫 Connect with Me
-Feel free to reach out via GitHub or through email: lzzrose95@yahoo.com
+Feel free to reach out via GitHub or through email: coderose.devs@gmail.com
